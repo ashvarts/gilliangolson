@@ -1,2 +1,6 @@
-- [x] github create repo
-- [ ] create githubpage for gilliangolson
+- [ ] github create repo command
+- [x] create githubpage for gilliangolson
+- [x] use custom domain for gilliangolson
+- [ ] https
+- [ ] cloud flare cdn
+- [ ] layout
