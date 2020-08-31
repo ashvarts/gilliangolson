@@ -1,2 +1,2 @@
-- [] github create repo
-- [] create githubpage for gilliangolson
+- [ ] github create repo
+- [ ] create githubpage for gilliangolson
