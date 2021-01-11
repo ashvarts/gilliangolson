@@ -3,8 +3,6 @@ body {
     margin: auto;
 }
 
-
-
-body image {
-    width: 100%;
+body img {
+    max-width: 100%;
 }
